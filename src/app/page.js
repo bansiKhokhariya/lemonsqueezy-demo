@@ -18,6 +18,7 @@ export default function Home() {
       alert("Failed to buy product");
     }
   };
+  
 
   return (
     <main className="pt-5 pl-5">
